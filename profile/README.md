@@ -6,7 +6,7 @@ The GitHub Actions are designed to be easily integrated with others, even ones d
 
 ## Getting Started
 
-To get started with this project, it'd be recommended to go through the [recipes](https://github.com/actions-ecosystem/recipes).
+To get started with this project, it's recommended to go through the [recipes](https://github.com/actions-ecosystem/recipes).
 
 ## Users
 
@@ -39,5 +39,4 @@ Note that the above list of users is found as of writing.
 Actions Ecosystem is currently maintained primarily by [@micnncim](https://github.com/micnncim) as volunteering.
 
 To continuously maintain and improve this project with keeping healthy, I want your help!
-
 Contributions are welcome, but it'd be great if you consider becoming a sponsor of this project or me.
